@@ -9,6 +9,7 @@ class HelloWorld {
 		System.out.println("Welcome to Git's Online Training!!");
 		System.out.println("Updated file for the Git PUSH ...!!");
 		System.out.println("Checking the Git Merge Branch...........!!");
+		System.out.println("Updating to check the Git Pull/Fetch...........!!");
 
 	}
 }
